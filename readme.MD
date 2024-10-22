@@ -116,6 +116,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 ## 🧙 Autor
 
 Creado con ❤️ por [Skydope](https://github.com/skydope).
+
+## ⚠️ Usar Responsablemente 
 El autor no se hace responsable de los usos indebidos o maliciosos de esta herramienta. Cada usuario asume la responsabilidad total de cualquier acción realizada con ella. Esta herramienta ha sido creada con fines educativos y de aprendizaje sobre la manipulación de IP y MAC. Se recomienda encarecidamente su uso ético y legal en entornos controlados y con el consentimiento adecuado.
 
 
